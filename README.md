@@ -1,8 +1,8 @@
 # Introduction To AI - Assignment 1
 
-Passing
+### Passing
 * N-puzzler-test + GBFS = SUCCESS
-Error
+### Error
 * N-puzzler-test + BFS = FAIL (stuck)
 * readme + BFS = FAIL
 * readme + GBFS = FAIL
