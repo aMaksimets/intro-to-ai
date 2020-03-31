@@ -13,7 +13,7 @@ The second refers to the method that you want to use to solve the puzzle(s) in t
 Search Table
 Parameter	|Method Name
 ----------------+----------
-BFS			|Breadth-first Search
+BFS		|Breadth-first Search
 GBFS		|Greedy Best-first Search
 
 
