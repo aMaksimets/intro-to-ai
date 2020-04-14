@@ -1,0 +1,22 @@
+C:\Users\Alek\source\repos\AI_Assignment1\AI_Assignment1\bin\Debug\netcoreapp3.1\AI_Assignment1.exe
+C:\Users\Alek\source\repos\AI_Assignment1\AI_Assignment1\bin\Debug\netcoreapp3.1\AI_Assignment1.deps.json
+C:\Users\Alek\source\repos\AI_Assignment1\AI_Assignment1\bin\Debug\netcoreapp3.1\AI_Assignment1.runtimeconfig.json
+C:\Users\Alek\source\repos\AI_Assignment1\AI_Assignment1\bin\Debug\netcoreapp3.1\AI_Assignment1.runtimeconfig.dev.json
+C:\Users\Alek\source\repos\AI_Assignment1\AI_Assignment1\bin\Debug\netcoreapp3.1\AI_Assignment1.dll
+C:\Users\Alek\source\repos\AI_Assignment1\AI_Assignment1\bin\Debug\netcoreapp3.1\AI_Assignment1.pdb
+C:\Users\Alek\source\repos\AI_Assignment1\AI_Assignment1\obj\Debug\netcoreapp3.1\AI_Assignment1.csprojAssemblyReference.cache
+C:\Users\Alek\source\repos\AI_Assignment1\AI_Assignment1\obj\Debug\netcoreapp3.1\AI_Assignment1.AssemblyInfoInputs.cache
+C:\Users\Alek\source\repos\AI_Assignment1\AI_Assignment1\obj\Debug\netcoreapp3.1\AI_Assignment1.AssemblyInfo.cs
+C:\Users\Alek\source\repos\AI_Assignment1\AI_Assignment1\obj\Debug\netcoreapp3.1\AI_Assignment1.dll
+C:\Users\Alek\source\repos\AI_Assignment1\AI_Assignment1\obj\Debug\netcoreapp3.1\AI_Assignment1.pdb
+C:\Users\Alek\Desktop\Artificial Intelligence\AI_Assignment1\AI_Assignment1\obj\Debug\netcoreapp3.1\AI_Assignment1.csprojAssemblyReference.cache
+C:\Users\Alek\Desktop\Artificial Intelligence\AI_Assignment1\AI_Assignment1\obj\Debug\netcoreapp3.1\AI_Assignment1.AssemblyInfoInputs.cache
+C:\Users\Alek\Desktop\Artificial Intelligence\AI_Assignment1\AI_Assignment1\obj\Debug\netcoreapp3.1\AI_Assignment1.AssemblyInfo.cs
+C:\Users\Alek\Desktop\Artificial Intelligence\AI_Assignment1\AI_Assignment1\obj\Debug\netcoreapp3.1\AI_Assignment1.dll
+C:\Users\Alek\Desktop\Artificial Intelligence\AI_Assignment1\AI_Assignment1\obj\Debug\netcoreapp3.1\AI_Assignment1.pdb
+C:\Users\Alek\Desktop\Artificial Intelligence\AI_Assignment1\AI_Assignment1\bin\Debug\netcoreapp3.1\AI_Assignment1.exe
+C:\Users\Alek\Desktop\Artificial Intelligence\AI_Assignment1\AI_Assignment1\bin\Debug\netcoreapp3.1\AI_Assignment1.deps.json
+C:\Users\Alek\Desktop\Artificial Intelligence\AI_Assignment1\AI_Assignment1\bin\Debug\netcoreapp3.1\AI_Assignment1.runtimeconfig.json
+C:\Users\Alek\Desktop\Artificial Intelligence\AI_Assignment1\AI_Assignment1\bin\Debug\netcoreapp3.1\AI_Assignment1.runtimeconfig.dev.json
+C:\Users\Alek\Desktop\Artificial Intelligence\AI_Assignment1\AI_Assignment1\bin\Debug\netcoreapp3.1\AI_Assignment1.dll
+C:\Users\Alek\Desktop\Artificial Intelligence\AI_Assignment1\AI_Assignment1\bin\Debug\netcoreapp3.1\AI_Assignment1.pdb
