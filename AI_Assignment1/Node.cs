@@ -5,8 +5,6 @@ namespace AI_Assignment1
 {
     public class Node : IEquatable<Node>
     {
-        // Implementation of the node class
-
         private float _gCost;
         private float _hCost;
         private Pos _position;
